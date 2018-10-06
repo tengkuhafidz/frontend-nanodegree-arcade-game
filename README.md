@@ -1,6 +1,27 @@
-frontend-nanodegree-arcade-game
-===============================
+# Frogger - Classic Arcade Game
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## How The Game Works
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+The goal of the game is to reach the water (top of the board) without colliding into any of the bugs. 
+The bugs will be moving across the board at random speeds.
+Use your arrow keys on your keyboard (left, right, up and down) to move.
+
+Have fun!
+
+### Installation
+
+To run the application:
+
+1. Download the zip file from github: https://github.com/tengkuhafidz/frontend-nanodegree-arcade-game
+2. Unzip the folder open it
+3. Open index.html on your preferred browser
+
+## About
+
+This game was built for an assignment of Udacity Frontend Nanodegree course.
+
+- Started the project with [Udacity's template](https://github.com/udacity/frontend-nanodegree-arcade-game)
+- Used [SweetAlert](https://sweetalert.js.org/guides/) for modal
+
+
+
